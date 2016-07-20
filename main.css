@@ -1,0 +1,17 @@
+#principal{
+     width:300px;
+     height:200px;
+     background-color: red;
+}
+.clearfix {
+  overflow: auto;
+
+}
+
+.cajas{
+	width:85px;
+    height:55px;
+    background-color:yellow;
+    margin:10px 10px 0px 0px;
+    float:left;
+    }
